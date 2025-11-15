@@ -84,7 +84,7 @@ const About = () => {
           >
             <div className="image-wrapper">
               <img
-                src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=500&h=600&fit=crop"
+                src="https://scontent.fsgn5-15.fna.fbcdn.net/v/t39.30808-6/533506347_1095918239409554_7117503038536388958_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=111&cb2=99be929b-bd9a46d7&ccb=1-7&_nc_sid=833d8c&_nc_ohc=ZLsbYm8ndfcQ7kNvwFNNULU&_nc_oc=AdkUDZY6SuInSBeRVBWjqQ8p9Mq3gBWcy_rmGV5dIPJQLvqM7_D7D9TKSigcxp0ctQM&_nc_zt=23&_nc_ht=scontent.fsgn5-15.fna&_nc_gid=WSFXi_44pV3in2oKvApXTA&oh=00_AfjQ3dRQIOfjhj49N9yTK7NmJxosL3JB-tywClESbCx2bQ&oe=691DB29C"
                 alt="Profile"
               />
               <div className="image-overlay"></div>
